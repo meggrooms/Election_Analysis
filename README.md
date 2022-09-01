@@ -44,9 +44,7 @@ Diana DeGette with 73.8% (272,892) of the votes cast.
         
 ## Election Aduit Summary
           
-I proposed to the Board of Elections that this script could be used as the basis for other elections. The base of my code can be used, with some modifications as necessary. Two ways in which you could modify the script would be to calculate the 
+I proposed to the Board of Elections that this script could be used as the basis for other elections. The base of my code can be used, with some modifications as necessary. One way you could modify the script would be to add scripting to differentiate between candidates & voters of different political parties, and another to analyze different socio-economic backgrounds & possible gerrymandering.
           <br>
-          
-          
-In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.          
+      
 
