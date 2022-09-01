@@ -11,8 +11,28 @@ The Colorado Board of Elections hired my firm to complete an aduit of a local co
 -------------------------
 ## Summary of Results
 The analysis of this election audit is as follows:<BR>
-  •There were a total of 3 candidates, with 
+There were a total of 3 candidates, with a total of 369,711 votes cast.<BR>
+     <BR>
+**The county breakdown of votes is:**<br>
+Arapahoe County = 24.801 (6.7% of votes)<br>
+Denver County = 306,055 (82.8% of votes)<br>
+Jefferson County = 38.855 (10.5% of votes<br>
+  <br>
+**Total votes per candidate:**<BR>
+Charles Casper Stockham: 23.0% (85,213)<BR>
+Diana DeGette: 73.8% (272,892)<BR>
+Raymon Anthony Doane: 3.1% (11,606)<BR>
+      <br>
+**Total percentage of votes per candidate:**<br>
+Charles Casper Stockham: 23.0%<BR>
+Diana DeGette: 73.8% <BR>
+Raymon Anthony Doane: 3.1% <BR>
 
+## **The winner of the election, based on popular vote is:**<BR>
+Diana DeGette with 73.8% (272,892) of the votes cast.
+
+          
+          
 
 
 ## Resources Used
