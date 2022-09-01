@@ -32,6 +32,10 @@ Raymon Anthony Doane: 3.1% <BR>
 
 ## **The winner of the election, based on popular vote is:**<BR>
 Diana DeGette with 73.8% (272,892) of the votes cast.
+<BR>
+<BR>
+<a href="https://github.com/meggrooms/Election_Analysis/blob/main/election_winner">The final list of votes & calculations can be seen here.</a>
+
 
 ----------------------          
 
