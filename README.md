@@ -31,12 +31,20 @@ Raymon Anthony Doane: 3.1% <BR>
 ## **The winner of the election, based on popular vote is:**<BR>
 Diana DeGette with 73.8% (272,892) of the votes cast.
 
-          
-          
-
+----------------------          
 
 ## Resources Used
 • Data Source: <a href="https://github.com/meggrooms/Election_Analysis/blob/main/resources/election_results.csv">election_results.csv</a>
 • Python 3.9.12
 • Visual Studio Code 1.70.2
+          
+----------------------
+        
+## Election Aduit Summary
+          
+I proposed to the Board of Elections that this script could be used as the basis for other elections. The base of my code can be used, with some modifications as necessary. Two ways in which you could modify the script would be to calculate the 
+          <br>
+          
+          
+In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.          
 
