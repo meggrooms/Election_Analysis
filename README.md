@@ -44,7 +44,7 @@ Diana DeGette with 73.8% (272,892) of the votes cast.
         
 ## Election Aduit Summary
           
-I proposed to the Board of Elections that this script could be used as the basis for other elections. The base of my code can be used, with some modifications as necessary. One way you could modify the script would be to add scripting to differentiate between candidates & voters of different political parties, and another to analyze different socio-economic backgrounds & possible gerrymandering.
+I proposed to the Board of Elections that this script could be used as the basis for other elections. The base of my code can be used, with some modifications as necessary. One way you could modify the script would be to add scripting to differentiate between candidates & voters of different political parties, and another to analyze different socio-economic backgrounds & evaluate for possible gerrymandering.
           <br>
       
 
